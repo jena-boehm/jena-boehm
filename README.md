@@ -1,4 +1,4 @@
-<img src='github-header.png' alt='Jena Boehm - Full Stack Software Engineer' />
+
 
 <!--
 **jena-boehm/jena-boehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
