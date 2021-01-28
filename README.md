@@ -14,7 +14,8 @@ Tech is the future, and I believe that as a software engineer I’d be able to d
 - Back-End: NodeJs, Express
 - Testing: Jest, QUnit
 - Databases: PostgreSQL
-- Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition, Slack, Asana, Miro, Trello, Airtable, Ableton Live
+- Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition, Ableton Live
+- Project Management Tools: Slack, Asana, Miro, Trello, Airtable
 
 ---
 
