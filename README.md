@@ -1,4 +1,4 @@
-<img src='github-header-white.png' alt='Jena Boehm - Full Stack Software Engineer' />
+<img src='github-header.png' alt='Jena Boehm - Full Stack Software Engineer' />
 
 I am a multifaceted, intuitive, and detail-driven Full Stack Software Engineer whose work is inspired by creative collaboration, authentic expression, and effective organization.
 
