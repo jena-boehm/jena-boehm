@@ -8,7 +8,7 @@ Tech is the future, and I believe that as a software engineer I’d be able to d
 
 ---
 
-### Tech Stack
+## Tech Stack
 - Languages: HTML, CSS, JavaScript
 - Front-End: React
 - Back-End: NodeJs, Express
@@ -18,6 +18,6 @@ Tech is the future, and I believe that as a software engineer I’d be able to d
 
 ---
 
-### Contact
+## Contact
 <img src='mail.png' alt='mail-icon' width='17px' /> jenaluxboehm@gmail.com <br>
 <img src='linkedin.png' alt='linkedin-icon' width='17px' /> [LinkedIn](https://www.linkedin.com/in/jenaboehm/)
