@@ -19,5 +19,5 @@ Tech is the future, and I believe that as a software engineer I’d be able to d
 ---
 
 ### Contact
-<p style="font-size:30px"><img src='mail.png' alt='mail-icon' width='20px' /> jenaluxboehm@gmail.com </p>
-<p style="font-size:30px"><img src='linkedin.png' alt='linkedin-icon' width='20px' /> [LinkedIn](https://www.linkedin.com/in/jenaboehm/)</p>
+<img src='mail.png' alt='mail-icon' width='17px' /> jenaluxboehm@gmail.com < /br>
+<img src='linkedin.png' alt='linkedin-icon' width='17px' /> [LinkedIn](https://www.linkedin.com/in/jenaboehm/)
