@@ -20,5 +20,4 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ---
 
 ## Contact
-<img src='mail.png' alt='mail-icon' width='17px' /> jenaluxboehm@gmail.com <br>
-<img src='linkedin.png' alt='linkedin-icon' width='17px' /> [LinkedIn](https://www.linkedin.com/in/jenaboehm/)
+Email: jenaluxboehm@gmail.com | [LinkedIn](https://www.linkedin.com/in/jenaboehm/)
