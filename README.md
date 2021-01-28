@@ -10,14 +10,14 @@ Tech is the future, and I believe that as a software engineer I’d be able to d
 
 ### Tech Stack
 - Languages: HTML, CSS, JavaScript
-- Front-End: React, Redux
+- Front-End: React
 - Back-End: NodeJs, Express
 - Testing: Jest, QUnit
 - Databases: PostgreSQL
-- Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition, Slack, Asana, Airtable, Ableton Live
+- Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition, Slack, Asana, Miro, Trello, Airtable, Ableton Live
 
 ---
 
 ### Contact
-- jenaluxboehm@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jenaboehm/)
+<img src='mail.png' alt='mail-icon' /> jenaluxboehm@gmail.com <br />
+<img src='linkedin.png' alt'linkedin-icon' /> [LinkedIn](https://www.linkedin.com/in/jenaboehm/)
