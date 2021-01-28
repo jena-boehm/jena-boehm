@@ -17,7 +17,7 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 - Testing: Jest, QUnit
 - Databases: PostgreSQL
 - Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition, Ableton Live
-- Project Management Tools: Slack, Asana, Miro, Trello, Airtable
+- Project Management Tools: Slack, Miro, Trello, Airtable, Asana
 
 ---
 
