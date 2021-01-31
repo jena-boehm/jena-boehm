@@ -1,4 +1,4 @@
-<img src='github-header.png' alt='Jena Boehm - Full Stack Software Engineer' />
+<img src='FSSE Purple Header.png' alt='Jena Boehm - Full Stack Software Engineer' />
 
 ## <div align='center'>About</div>
 
