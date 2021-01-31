@@ -12,7 +12,7 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 
 ## <div align='center'>Tech Stack</div>
 ⊹ Languages: HTML, CSS, JavaScript<br/>
-⊹ Front-End: React<br/>
+⊹ Front-End: React, Redux<br/>
 ⊹ Back-End: NodeJs, Express, REST APIs<br/>
 ⊹ Testing: Jest, QUnit<br/>
 ⊹ Databases: PostgreSQL<br/>
