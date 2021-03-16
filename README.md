@@ -15,12 +15,12 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ## <div align='center'>Tech Stack</div>
 ⊹ Languages: HTML, CSS, JavaScript<br/>
 ⊹ Front-End: React, Redux<br/>
-⊹ Back-End: NodeJs, Express, REST APIs<br/>
+⊹ Back-End: NodeJs, Express, REST APIs, GraphQL<br/>
 ⊹ Testing: Jest, QUnit<br/>
 ⊹ Databases: PostgreSQL<br/>
 ⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition<br/>
 ⊹ Project Management Tools: Slack, Miro, Trello, Airtable, Asana<br/>
-⊹ Dev Practices: Test-Driven Development<br/>
+⊹ Dev Practices: Test-Driven Development, Agile<br/>
 
 ---
 
