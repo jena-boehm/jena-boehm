@@ -16,7 +16,7 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ⊹ Languages: HTML, CSS, JavaScript<br/>
 ⊹ Front-End: React, Redux<br/>
 ⊹ Back-End: NodeJs, Express, REST APIs, GraphQL<br/>
-⊹ Testing: Jest, QUnit<br/>
+⊹ Testing: Jest, QUnit, Supertest, Travis CI, GitHub CI<br/>
 ⊹ Databases: PostgreSQL<br/>
 ⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition<br/>
 ⊹ Project Management Tools: Slack, Miro, Trello, Airtable, Asana<br/>
