@@ -25,7 +25,6 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ---
 
 ## <div align='center'>Contact</div>
-<div align='center'><a href='mailto:jenaluxboehm@gmail.com'>jenaluxboehm@gmail.com</a> ⊹ <a href='https://www.linkedin.com/in/jenaluxboehm/'>LinkedIn</a><br/>
-  <a href='https://www.jenaluxboehm.com'>jenaluxboehm.com</a>
+<div align='center'><a href='mailto:jenaluxboehm@gmail.com'>jenaluxboehm@gmail.com</a> ⊹ <a href='https://www.linkedin.com/in/jenaluxboehm/'>LinkedIn</a> ⊹ <a href='https://www.jenaluxboehm.com'>jenaluxboehm.com</a>
 </div>
 
