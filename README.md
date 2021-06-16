@@ -2,7 +2,7 @@
 
 ## <div align='center'>About</div>
 
-<p align='center'>I am a multifaceted, intuitive, and detail-driven Full Stack Software Engineer whose work is inspired by open communication, authentic expression, and effective organization.<br/>
+<p align='center'>I am a multifaceted, intuitive, and detail-driven Full Stack Software Engineer<br/>whose work is inspired by open communication, authentic expression, and effective organization.<br/>
 <br/>
 Experienced with Full Stack, but front end really feels like home.<br/>
 <br/>
