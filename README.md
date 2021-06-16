@@ -18,7 +18,7 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ⊹ Testing: Jest, QUnit, Supertest, Travis CI, GitHub CI<br/>
 ⊹ Databases: PostgreSQL<br/>
 ⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition<br/>
-⊹ Project Management Tools: Miro, Trello, Airtable, Asana, Slack<br/>
+⊹ Project Management Tools: Miro, Figma, Trello, Airtable, Asana, Slack<br/>
 ⊹ Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development<br/>
 
 ---
