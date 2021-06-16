@@ -6,7 +6,7 @@
 <br/>
 Experienced with Full Stack, but front end really feels like home.<br/>
 <br/>
-My past experience as an event professional and in the music industry has provided me with a diverse skill set to tackle any problem or project I encounter. It has trained me to be detail-oriented, precise, and intentional, while at the same time considering how my work may affect the customers, the rest of my team, and the project as a whole. <br/>
+With a knack for creative problem-solving and an eye for front end design, I thrive in user-focused environments that fuse technology and art together in innovative ways. <br/>
 <br/>
 Tech is the future, and I believe that as a software engineer I am able to directly and positively impact the lives of many people.</p>
 
@@ -14,13 +14,12 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 
 ## <div align='center'>Tech Stack</div>
 ⊹ Languages: HTML, CSS, JavaScript<br/>
-⊹ Front-End: React, Redux<br/>
-⊹ Back-End: NodeJs, Express, REST APIs, GraphQL<br/>
+⊹ Libraries & Frameworks: React, Redux, NodeJS, Twilio, ExpressJS, GraphQL, Superagent<br/>
 ⊹ Testing: Jest, QUnit, Supertest, Travis CI, GitHub CI<br/>
 ⊹ Databases: PostgreSQL<br/>
 ⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition<br/>
-⊹ Project Management Tools: Slack, Miro, Trello, Airtable, Asana<br/>
-⊹ Dev Practices: Test-Driven Development, Agile<br/>
+⊹ Project Management Tools: Miro, Trello, Airtable, Asana, Slack<br/>
+⊹ Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development<br/>
 
 ---
 
