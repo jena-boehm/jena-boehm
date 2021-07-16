@@ -14,7 +14,7 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 
 ## <div align='center'>Tech Stack</div>
 ⊹ Languages: HTML, CSS, JavaScript<br/>
-⊹ Libraries & Frameworks: React, Redux, NodeJS, Twilio, ExpressJS, GraphQL, Superagent<br/>
+⊹ Libraries & Frameworks: React, NodeJS, Twilio, ExpressJS, GraphQL, Superagent<br/>
 ⊹ Testing: Jest, QUnit, Supertest, Travis CI, GitHub CI<br/>
 ⊹ Databases: PostgreSQL<br/>
 ⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition<br/>
