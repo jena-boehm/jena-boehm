@@ -13,13 +13,13 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ---
 
 ## <div align='center'>Tech Stack</div>
-⊹ Languages: HTML, CSS, JavaScript<br/>
-⊹ Libraries & Frameworks: React, NodeJS, Twilio, ExpressJS, GraphQL, Superagent<br/>
-⊹ Testing: Jest, QUnit, Supertest, Travis CI, GitHub CI<br/>
+⊹ Languages: HTML, CSS, JavaScript ES6<br/>
+⊹ Libraries & Frameworks: React, Next.js, Gatsby, Node.js, GraphQL, Express<br/>
+⊹ Testing: Jest, QUnit, Supertest, React Testing Library<br/>
 ⊹ Databases: PostgreSQL<br/>
-⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin, Twilio, AWS Rekognition<br/>
-⊹ Project Management Tools: Miro, Figma, Trello, Airtable, Asana, Slack<br/>
-⊹ Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development<br/>
+⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin<br/>
+⊹ Project Management Tools: Miro, Figma, Trello, Airtable, Asana, Jira<br/>
+⊹ Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development, Design Driven Development<br/>
 
 ---
 
