@@ -13,7 +13,7 @@ Tech is the future, and I believe that as a software engineer I am able to direc
 ---
 
 ## <div align='center'>Tech Stack</div>
-⊹ Languages: HTML, CSS, JavaScript ES6<br/>
+⊹ Languages: JavaScript, TypeScript, CSS, Sass, HTML<br/>
 ⊹ Libraries & Frameworks: React, Next.js, Gatsby, Node.js, GraphQL, Express<br/>
 ⊹ Testing: Jest, QUnit, Supertest, React Testing Library<br/>
 ⊹ Databases: PostgreSQL<br/>
