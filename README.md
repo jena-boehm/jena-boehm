@@ -4,7 +4,7 @@
 
 <p align='center'>I am a multifaceted, intuitive, and detail-driven Front End Software Engineer<br/>whose work is inspired by open communication, authentic expression, and effective organization.<br/>
 <br/>
-Experienced with Full Stack, but Front End really feels like home.<br/>
+Familiar with Full Stack, but Front End really feels like home.<br/>
 <br/>
 With a knack for creative problem-solving and an eye for front end design, I thrive in user-focused environments that fuse technology and art together in innovative ways. <br/>
 <br/>
