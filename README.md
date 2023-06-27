@@ -7,19 +7,6 @@
 Familiar with Full Stack, but Front End really feels like home.<br/>
 <br/>
 With a knack for creative problem-solving and an eye for front end design, I thrive in user-focused environments that fuse technology and art together in innovative ways. <br/>
-<br/>
-Tech is the future, and I believe that as a software engineer I am able to directly and positively impact the lives of many people.</p>
-
----
-
-## <div align='center'>Tech Stack</div>
-⊹ Languages: JavaScript, TypeScript, CSS, Sass, HTML<br/>
-⊹ Libraries & Frameworks: React, Next.js, Gatsby, Node.js, GraphQL, Express<br/>
-⊹ Testing: Jest, QUnit, Supertest, React Testing Library<br/>
-⊹ Databases: PostgreSQL<br/>
-⊹ Tools: VSCode, Git, GitHub, Heroku, Netlify, Postman, PGAdmin<br/>
-⊹ Project Management Tools: Miro, Figma, Trello, Airtable, Asana, Jira<br/>
-⊹ Dev Practices: Pair Programming, RESTful APIs, Agile, Test Driven Development, Design Driven Development<br/>
 
 ---
 
